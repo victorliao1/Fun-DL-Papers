@@ -1,0 +1,15 @@
+https://arxiv.org/pdf/1502.03167.pdf
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+https://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep.pdf
+https://arxiv.org/pdf/1706.03762.pdf
+https://arxiv.org/pdf/1512.03385.pdf
+https://arxiv.org/pdf/1503.04069.pdf
+https://arxiv.org/pdf/1907.10830v1.pdf
+https://arxiv.org/pdf/1812.06164.pdf
+https://arxiv.org/pdf/1505.04597.pdf
+https://arxiv.org/pdf/1907.05740.pdf
+https://arxiv.org/pdf/1905.02175.pdf
+https://arxiv.org/pdf/1412.6572.pdf
+https://arxiv.org/pdf/1711.09856.pdf
+https://arxiv.org/abs/1812.00181
+https://arxiv.org/pdf/1908.03265.pdf
