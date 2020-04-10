@@ -13,3 +13,9 @@ https://arxiv.org/pdf/1412.6572.pdf
 https://arxiv.org/pdf/1711.09856.pdf
 https://arxiv.org/abs/1812.00181
 https://arxiv.org/pdf/1908.03265.pdf
+https://arxiv.org/pdf/1907.11692.pdf
+https://arxiv.org/pdf/1301.3781.pdf
+https://arxiv.org/pdf/1405.4053.pdf
+https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+https://arxiv.org/pdf/1711.04168.pdf
+https://arxiv.org/pdf/1607.05368.pdf
