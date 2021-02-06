@@ -1,21 +1,79 @@
-https://arxiv.org/pdf/1502.03167.pdf
-https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
-https://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep.pdf
-https://arxiv.org/pdf/1706.03762.pdf
-https://arxiv.org/pdf/1512.03385.pdf
-https://arxiv.org/pdf/1503.04069.pdf
-https://arxiv.org/pdf/1907.10830v1.pdf
-https://arxiv.org/pdf/1812.06164.pdf
-https://arxiv.org/pdf/1505.04597.pdf
-https://arxiv.org/pdf/1907.05740.pdf
-https://arxiv.org/pdf/1905.02175.pdf
-https://arxiv.org/pdf/1412.6572.pdf
-https://arxiv.org/pdf/1711.09856.pdf
-https://arxiv.org/abs/1812.00181
-https://arxiv.org/pdf/1908.03265.pdf
-https://arxiv.org/pdf/1907.11692.pdf
-https://arxiv.org/pdf/1301.3781.pdf
-https://arxiv.org/pdf/1405.4053.pdf
-https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
-https://arxiv.org/pdf/1711.04168.pdf
-https://arxiv.org/pdf/1607.05368.pdf
+RL:
+A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation
+	https://arxiv.org/abs/1806.02450
+
+Gradient Temporal-Difference Learning with Regularized Corrections
+	https://arxiv.org/abs/2007.00611
+
+Deep multi-agent reinforcement learning
+	https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4
+
+Human-level control through deep reinforcement learning
+	https://www.nature.com/articles/nature14236
+
+A Distributional Perspective on Reinforcement Learning
+	https://arxiv.org/abs/1707.06887
+
+Learning from Conditional Distributions via Dual Embeddings
+	https://arxiv.org/abs/1607.04579
+
+A Convergent O(n) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation
+	http://www.incompleteideas.net/papers/SSM-nips08.pdf
+
+Fast Gradient-Descent Methods for Temporal-Difference Learning
+with Linear Function Approximation
+	http://incompleteideas.net/papers/SMPBSSW-09.pdf
+
+
+DL/ML:
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+	https://arxiv.org/pdf/1502.03167.pdf
+
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+	https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+
+Do Deep Nets Really Need to be Deep?
+	https://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep.pdf
+
+ON THE VARIANCE OF THE ADAPTIVE LEARNING
+RATE AND BEYOND
+	https://arxiv.org/pdf/1908.03265.pdf
+
+NLP:
+Attention Is All You Need
+	https://arxiv.org/pdf/1706.03762.pdf
+
+LSTM: A Search Space Odyssey
+	https://arxiv.org/pdf/1503.04069.pdf
+
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+	https://arxiv.org/pdf/1907.11692.pdf
+
+Efficient Estimation of Word Representations in
+Vector Space
+	https://arxiv.org/pdf/1301.3781.pdf
+
+Distributed Representations of Sentences and Documents
+	https://arxiv.org/pdf/1405.4053.pdf
+
+Distributed Representations of Words and Phrases
+and their Compositionality
+	https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+
+Unsupervised Document Embedding With CNNs
+	https://arxiv.org/pdf/1711.04168.pdf
+
+An Empirical Evaluation of doc2vec with
+Practical Insights into Document Embedding Generation
+	https://arxiv.org/pdf/1607.05368.pdf
+
+CV:
+Deep Residual Learning for Image Recognition
+	https://arxiv.org/pdf/1512.03385.pdf
+
+Inverse Cooking: Recipe Generation from Food Images
+	https://arxiv.org/pdf/1812.06164.pdf
+
+EXPLAINING AND HARNESSING
+ADVERSARIAL EXAMPLES
+	https://arxiv.org/pdf/1412.6572.pdf
